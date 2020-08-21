@@ -1,0 +1,57 @@
+.declartionBar{
+    height: 50px;
+    text-align: right;
+    color: lightcyan;
+    padding-right: 50px;
+    padding-top: 10PX;
+}
+.enterSite {
+    height: 100px;
+}
+.thirdDiv{
+    height: 200px;
+}
+.topMenu{
+    height: 75px;
+    border-style: solid;
+    border: black;
+}
+.bodyOfPage{
+    min-height: 700px;
+}
+.footer{
+    height: 500px;
+}
+.themeColor1{
+    background-color: darkkhaki;
+}
+.themeColor2{
+    background-color: darkslategrey;
+}
+.clearFloat{
+    clear: both;
+}
+.enterLink{
+    width: 200px;
+    height: 75px;
+    float: left;
+    margin: 5px;
+}
+.topMenuButton{
+    width: 135Px;
+    height: 20px;
+    margin-left: 5px;
+    float: right;
+    text-align: center;
+    border-left-color: beige;
+    border-left-style: solid;
+    border-width: 1px;
+}
+.schedule{
+    width: 190px;
+    margin-left: 5px;
+    float: left;
+    height: 500px;
+    background-color: darkorange;
+
+}
